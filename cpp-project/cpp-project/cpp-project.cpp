@@ -1,7 +1,13 @@
-#include <iostream>
+#include "cpp.h";
 using namespace std;
 
-int main()
+int main() 
 {
-    cout << "hello world" << endl;
+	cout << "C++ Project !!" << endl;
+	cout << " " << endl;
+
+	Project prj;
+	prj.m2_1();
+	return 0;
 }
+

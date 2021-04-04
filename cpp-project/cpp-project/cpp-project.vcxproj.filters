@@ -18,5 +18,13 @@
     <ClCompile Include="cpp-project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="m2_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cpp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
